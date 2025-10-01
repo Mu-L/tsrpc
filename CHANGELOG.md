@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [3.4.20] - 2025-10-02
+### Fixed
+- Update dependencies
+
 ## [3.4.19] - 2025-07-14
 ### Fixed
 - @qianlv: Fixed an issue in `gracefulStop` where `resolve` would never be called if `_pendingApiCallNum` was 0. Resolves #63

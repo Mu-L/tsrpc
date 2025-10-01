@@ -1,6 +1,6 @@
 {
   "name": "tsrpc",
-  "version": "3.4.19",
+  "version": "3.4.20",
   "description": "A TypeScript RPC Framework, with runtime type checking and built-in serialization, support both HTTP and WebSocket.",
   "main": "index.js",
   "exports": {
@@ -59,8 +59,8 @@
   "dependencies": {
     "@types/ws": "^7.4.7",
     "chalk": "^4.1.2",
-    "tsbuffer": "^2.2.10",
-    "tsrpc-base-client": "^2.1.15",
+    "tsbuffer": "^2.2.11",
+    "tsrpc-base-client": "^2.1.16",
     "tsrpc-proto": "^1.4.3",
     "uuid": "^8.3.2",
     "ws": "^7.5.9"
