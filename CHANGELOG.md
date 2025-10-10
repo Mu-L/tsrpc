@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## [3.4.21] - 2025-10-10
+### Fixed
+- Update to `tsrpc-base-client@2.1.17`
+
 ## [3.4.20] - 2025-10-02
 ### Fixed
 - Update dependencies
